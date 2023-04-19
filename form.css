@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.imgg{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.imgg1{
+    height: 100px;
+    width: 150px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ss{
+    height: 150px;
+}
+
+.hh1{
+    text-align: center;
+    justify-content: center;
+    color: red;
+    font-size: 30px;
+}
+.hh2{
+    font-size: 30px;
+    text-align: center;
+    justify-content: center; 
+}
+
+.form{
+    height: 80vh;
+    margin-top: 32px;
+    padding: 9px;
+    position: relative;
+    overflow: hidden;
+}
+
+.form-box{
+    padding: 2px 4px;
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 22px;
+    border-radius: 5px;
+    border: black;
+}
+
+.form-box input, textarea{
+    width: 30vw;
+    font-size: 16px;
+}
+
+.btn{
+    font-size: large;
+    border-radius:5px ;
+    padding: 8px 10px;
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+
+.sec1{
+    color: red;
+    font-size: 28px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.foot{
+    height: 10vh;
+    background-color: rgb(19, 171, 221);
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding-top: 20px;
+    font-size: 16px;
+    border-radius: 2px;
+}
+
+.foo1{
+    margin-left: 20px;
+}
+
+.foo2{
+    margin-right: 20px;
+}
